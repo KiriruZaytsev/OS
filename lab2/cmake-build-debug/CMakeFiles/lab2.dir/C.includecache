@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/lab_repos/OS/lab2/main.c
+stdio.h
+E:/lab_repos/OS/lab2/stdio.h
+string.h
+E:/lab_repos/OS/lab2/string.h
+unistd.h
+E:/lab_repos/OS/lab2/unistd.h
+sys/wait.h
+E:/lab_repos/OS/lab2/sys/wait.h
+fcntl.h
+E:/lab_repos/OS/lab2/fcntl.h
+stdlib.h
+E:/lab_repos/OS/lab2/stdlib.h
+

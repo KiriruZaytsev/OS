@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/lab_repos/OS/lab3/main.cpp
+iostream
+-
+vector
+-
+thread
+-
+random
+-
+cstdlib
+-
+fstream
+-
+
